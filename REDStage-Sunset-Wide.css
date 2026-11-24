@@ -340,7 +340,7 @@ strong.important_text_alt {
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 95%;
+    width: 85%;
     max-width: 95vw
 }
 
